@@ -1,6 +1,6 @@
 [package]
-name = "nightcycle/package"
-description = "A package!"
+name = "nightcycle/unit-test"
+description = "A basic unit test running module."
 version = "1.0.0"
 authors = ["CJ Oyer <coyer@nightcycle.us>"]
 realm = "shared"
